@@ -1,6 +1,6 @@
 public enum Status
 {
-    Aberto,
-    Encerrado,
-    Concluido
+    Aberto = 0,
+    Encerrado = 1,
+    Concluido = 2,
 }

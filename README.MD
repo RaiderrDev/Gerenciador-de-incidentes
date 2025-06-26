@@ -18,7 +18,7 @@ METODO | ENDPOINT | DESCRIÇÂO | EXEMPLO NO BODY
 GET | api/incidente/retornar | Retorna todos incidentes 
 GET | /api/Incidente/buscar/{id} | Busca um incidente por id
 POST | /api/Incidente/salvar | Cria um novo incidente | { "Descricao": "Erro no servidor", "Prioridade": 2, "Status": 0 }
-PUT | /api/Incidente/atualizar/{id} | Atualiza o status de um incidente | { "Status": Concluido }
+PUT | /api/Incidente/atualizar/{id} | Atualiza o status de um incidente | { "Status": 1 }
 DELETE | /api/Incidente/deletar/{id} | Deleta um incidente por id
 
 

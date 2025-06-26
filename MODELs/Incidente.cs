@@ -12,13 +12,6 @@ public class Incidente
     public DateTime DataAbertura { get; } = DateTime.Now;
     public Status Status { get; set; }
 
-    protected Incidente() { }
+    public Incidente() { }
 
-    public Incidente(string desc, Prioridade prioridade, Status status)
-    {
-        Descricao = desc;
-        Prioridade = prioridade;
-        Status = status;
-        
-    }
 }

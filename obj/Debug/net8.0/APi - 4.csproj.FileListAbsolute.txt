@@ -157,3 +157,4 @@ C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\APi - 4\obj\Debug\net8.0\refint\
 C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\APi - 4\obj\Debug\net8.0\APi - 4.pdb
 C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\APi - 4\obj\Debug\net8.0\APi - 4.genruntimeconfig.cache
 C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\APi - 4\obj\Debug\net8.0\ref\APi - 4.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\APi - 4\obj\Debug\net8.0\APi - 4.sourcelink.json
